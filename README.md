@@ -11,12 +11,12 @@ This project implements an optimized Dynamic Carry Look-Ahead Adder (CLA) using 
 ## Performance Improvements
 Compared to conventional 8x8-bit adders, the Dynamic CLA offers notable enhancements:
 
-## Speed Improvement:
+### Speed Improvement:
 - 69.46% faster than Ripple Carry Adder.
 - 57.44% faster than Traditional CLA.
 - Achieves a delay of 1.285 ns, significantly faster than the Ripple Carry Adder 4.208 ns and Traditional CLA 3.02 ns.
 
-## Area Reduction (Transistor Count):
+### Area Reduction (Transistor Count):
 - 34.72% smaller than Ripple Carry Adder.
 - 49.46% smaller than Traditional CLA.
 - The calculated area for the 8x8 CLA is 92,369 µm², optimized compared to conventional implementations.
