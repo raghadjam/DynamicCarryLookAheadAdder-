@@ -4,7 +4,7 @@
 This project implements an optimized Dynamic Carry Look-Ahead Adder (CLA) using a 300nm 5-metal layer CMOS process. The design enhances traditional static adders by leveraging dynamic logic, achieving high-speed performance, reducing transistor count, and optimizing area while balancing power consumption.
 
 ## Key Features
-= Faster Computation: Dynamic logic significantly reduces propagation delay.
+- Faster Computation: Dynamic logic significantly reduces propagation delay.
 - Optimized Area: Fewer transistors result in a more compact design.
 - Efficient Performance: Balances speed and area with a slight trade-off in power consumption.
 
